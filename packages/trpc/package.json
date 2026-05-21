@@ -1,0 +1,16 @@
+{
+    "name": "@tclastrpc/trpc",
+    "private": true,
+    "main": "./dist/index.js",
+    "scripts": {
+        "dev": "tsc --watch",
+        "build": "tsc"
+    },
+    "type": "module",
+    "devDependencies": {
+        "typescript": "^6.0.3"
+    },
+    "dependencies": {
+        "@trpc/server": "^11.17.0"
+    }
+}
