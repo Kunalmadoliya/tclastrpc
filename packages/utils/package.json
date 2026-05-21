@@ -1,0 +1,20 @@
+{
+    "name": "@tclastrpc/utils",
+    "main": "index.js",
+    "private": true,
+    "exports": {
+        ".": "./src/index.ts"
+    },
+
+    "scripts": {
+        "dev": "tsc --watch",
+        "build": "tsc"
+    },
+    "type": "module",
+    "devDependencies": {
+        "typescript": "^6.0.3"
+    },
+    "dependencies": {
+        "zod": "^4.4.3"
+    }
+}
