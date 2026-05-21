@@ -1,22 +1,11 @@
-$ next build
-▲ Next.js 16.2.6 (Turbopack)
+[6n[?9001h[?1004h[m]0;C:\WINDOWS\system32\cmd.exe[?25h[2m$ next build
+[22m[38;2;173;127;168m[1m▲ Next.js 16.2.6[m (Turbopack)
 
-  Creating an optimized production build ...
-✓ Compiled successfully in 2.5s
-  Running TypeScript ...
-  Finished TypeScript in 2.3s ...
-  Collecting page data using 5 workers ...
-  Generating static pages using 5 workers (0/4) ...
-  Generating static pages using 5 workers (1/4) 
-  Generating static pages using 5 workers (2/4) 
-  Generating static pages using 5 workers (3/4) 
-✓ Generating static pages using 5 workers (4/4) in 684ms
-  Finalizing page optimization ...
-
-Route (app)
+[37m[1m [m Creating an optimized production build ...
+[32m[1m✓[m Compiled successfully in 2.5s
+[37m[1m [m Running TypeScript  [36m.[?25l[m[K[193C[37m[1m [m Running TypeScript  [36m..[m[K[193C[37m[1m [m Running TypeScript  [36m...[m[K[193C[37m[1m [m Running TypeScript  [36m.[m[K[193C[37m[1m [m Running TypeScript  [36m..[m[K[193C[37m[1m [m Running TypeScript  [36m...[m[K[193C[37m[1m [m Running TypeScript  [36m.[m[K[193C[37m[1m [m Running TypeScript  [36m..[m[K[193C[37m[1m [m Running TypeScript  [36m...[m[K[193C[37m[1m [m Running TypeScript  [36m.[m[K[193C[37m[1m [m Running TypeScript  [36m..[m[K[193C[37m[1m [m Running TypeScript  [36m...[m[K[193C[37m[1m [m Running TypeScript  [36m.[m[K[193C[32m[1m✓[m Finished TypeScript in 2.5s[K[37m[1m
+ [m Collecting page data using 5 workers  [36m.[m[K[193C[37m[1m [m Collecting page data using 5 workers  [36m..[m[K[193C[37m[1m [m Collecting page data using 5 workers  [36m...[m[K[193C[37m[1m [m Collecting page data using 5 workers  [36m.[m[32m[1m✓[m Collecting page data using 5 workers in 632ms[K
+[?25h[?25l[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[    ][m[K[193C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[=   ][m[K[193C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[==  ][m[K[193C[37m[1m [m Generating static pages using 5 workers (0/4)  [36m[=== ][m[K[193C[32m[1m✓[m Generating static pages using 5 workers (4/4) in 737ms[37m[1m
+ [m Finalizing page optimization  [36m.[m[32m[1m✓[m Finalizing page optimization in 16ms[K[4m[11;1HRoute (app)[24m
 ┌ ○ /
-└ ○ /_not-found
-
-
-○  (Static)  prerendered as static content
-
+└ ○ /_not-found[16;1H○  (Static)  prerendered as static content[18;1H[?25h[?9001l[?1004l
